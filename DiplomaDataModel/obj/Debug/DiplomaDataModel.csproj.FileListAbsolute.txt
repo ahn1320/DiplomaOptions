@@ -1,0 +1,133 @@
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll.config
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.pdb
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.Helpers.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.Mvc.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.Razor.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.WebPages.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.Helpers.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.Mvc.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.Razor.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.WebPages.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.csprojResolveAssemblyReference.cache
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.pdb
+D:\VS Project\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll.config
+D:\VS Project\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll
+D:\VS Project\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.pdb
+D:\VS Project\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.dll
+D:\VS Project\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\VS Project\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\VS Project\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\VS Project\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\VS Project\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.Helpers.dll
+D:\VS Project\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.Mvc.dll
+D:\VS Project\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.Razor.dll
+D:\VS Project\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\VS Project\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.WebPages.dll
+D:\VS Project\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.WebPages.Razor.dll
+D:\VS Project\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.xml
+D:\VS Project\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\VS Project\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\VS Project\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\VS Project\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.Helpers.xml
+D:\VS Project\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.Mvc.xml
+D:\VS Project\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.Razor.xml
+D:\VS Project\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.WebPages.xml
+D:\VS Project\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\VS Project\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.WebPages.Razor.xml
+D:\VS Project\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.csprojResolveAssemblyReference.cache
+D:\VS Project\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.dll
+D:\VS Project\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.pdb
+C:\Users\stubu_000\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll.config
+C:\Users\stubu_000\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.pdb
+C:\Users\stubu_000\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.Helpers.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.Mvc.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.Razor.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.WebPages.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.Helpers.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.Mvc.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.Razor.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.WebPages.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.pdb
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll.config
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\DiplomaDataModel.pdb
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\EntityFramework.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\System.Web.Helpers.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\System.Web.Mvc.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\System.Web.Razor.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\System.Web.WebPages.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\EntityFramework.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\System.Web.Helpers.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\System.Web.Mvc.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\System.Web.Razor.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\System.Web.WebPages.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\DiplomaDataModel\obj\Debug\DiplomaDataModel.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\DiplomaDataModel\obj\Debug\DiplomaDataModel.pdb
+D:\VS Project\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll.config
+D:\VS Project\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll
+D:\VS Project\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\DiplomaDataModel.pdb
+D:\VS Project\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\EntityFramework.dll
+D:\VS Project\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\VS Project\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\VS Project\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\VS Project\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\VS Project\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\System.Web.Helpers.dll
+D:\VS Project\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\System.Web.Mvc.dll
+D:\VS Project\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\System.Web.Razor.dll
+D:\VS Project\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\VS Project\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\System.Web.WebPages.dll
+D:\VS Project\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\System.Web.WebPages.Razor.dll
+D:\VS Project\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\EntityFramework.xml
+D:\VS Project\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\VS Project\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\VS Project\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\VS Project\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\System.Web.Helpers.xml
+D:\VS Project\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\System.Web.Mvc.xml
+D:\VS Project\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\System.Web.Razor.xml
+D:\VS Project\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\System.Web.WebPages.xml
+D:\VS Project\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\VS Project\DiplomaOptions-2- Copy\DiplomaDataModel\bin\Debug\System.Web.WebPages.Razor.xml
+D:\VS Project\DiplomaOptions-2- Copy\DiplomaDataModel\obj\Debug\DiplomaDataModel.csprojResolveAssemblyReference.cache
+D:\VS Project\DiplomaOptions-2- Copy\DiplomaDataModel\obj\Debug\DiplomaDataModel.dll
+D:\VS Project\DiplomaOptions-2- Copy\DiplomaDataModel\obj\Debug\DiplomaDataModel.pdb

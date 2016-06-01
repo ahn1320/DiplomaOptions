@@ -1,0 +1,14 @@
+﻿enable-migrations -ContextTypeName DiplomaContext –ContextProject DiplomaDataModel -MigrationsDirectory Migrations\DiplomaMigrations
+
+add-migration -ConfigurationTypeName OptionsWebSite.Migrations.DiplomaMigrations.Configuration "DiplomaIdentity"
+
+update-database -ConfigurationTypeName OptionsWebSite.Migrations.DiplomaMigrations.Configuration
+
+
+
+
+enable-migrations -ContextTypeName ApplicationDbContext –ContextProject DiplomaDataModel -MigrationsDirectory Migrations\IdentityMigrations
+
+add-migration -ConfigurationTypeName OptionsWebSite.Migrations.IdentityMigrations.Configuration "UserIdentity"
+
+update-database -ConfigurationTypeName OptionsWebSite.Migrations.IdentityMigrations.Configuration

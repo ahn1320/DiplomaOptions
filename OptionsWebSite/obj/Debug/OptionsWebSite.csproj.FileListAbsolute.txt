@@ -1,0 +1,357 @@
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\ApplicationInsights.config
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\roslyn\csc.exe
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\roslyn\vbc.exe
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\OptionsWebSite.dll.config
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\OptionsWebSite.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\OptionsWebSite.pdb
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Antlr3.Runtime.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\DiplomaDataModel.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\EntityFramework.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\EntityFramework.SqlServer.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.Web.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Newtonsoft.Json.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Owin.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\System.Web.Helpers.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\System.Web.Mvc.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\System.Web.Optimization.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\System.Web.Razor.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\WebGrease.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\DiplomaDataModel.pdb
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.Web.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\System.Web.Helpers.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\System.Web.Mvc.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\System.Web.Optimization.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\System.Web.Razor.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Antlr3.Runtime.pdb
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Newtonsoft.Json.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\EntityFramework.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\EntityFramework.SqlServer.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.csprojResolveAssemblyReference.cache
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.Migrations.DiplomaMigrations.DiplomaIdentity.resources
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.Migrations.DiplomaMigrations.DiplomaIdentity1.resources
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.Migrations.IdentityMigrations.UserIdentity.resources
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.csproj.GenerateResource.Cache
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.dll
+C:\Users\세종\Desktop\BCIT\level 4\COMP 4870 intranet\Assignments\1\ShonSheJong_ShimSoran_ass1\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.pdb
+D:\VS Project\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.csprojResolveAssemblyReference.cache
+D:\VS Project\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.Migrations.DiplomaMigrations.DiplomaIdentity.resources
+D:\VS Project\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.Migrations.DiplomaMigrations.DiplomaIdentity1.resources
+D:\VS Project\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.Migrations.IdentityMigrations.UserIdentity.resources
+D:\VS Project\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.csproj.GenerateResource.Cache
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\ApplicationInsights.config
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\roslyn\csc.exe
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\roslyn\vbc.exe
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\OptionsWebSite.dll.config
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\OptionsWebSite.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\OptionsWebSite.pdb
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Antlr3.Runtime.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\DiplomaDataModel.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\EntityFramework.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\EntityFramework.SqlServer.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.Web.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Newtonsoft.Json.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Owin.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\System.Web.Helpers.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\System.Web.Mvc.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\System.Web.Optimization.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\System.Web.Razor.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\WebGrease.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\DiplomaDataModel.pdb
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.Web.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\System.Web.Helpers.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\System.Web.Mvc.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\System.Web.Optimization.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\System.Web.Razor.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Antlr3.Runtime.pdb
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Newtonsoft.Json.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\EntityFramework.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\EntityFramework.SqlServer.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.csprojResolveAssemblyReference.cache
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.Migrations.DiplomaMigrations.DiplomaIdentity.resources
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.Migrations.DiplomaMigrations.DiplomaIdentity1.resources
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.Migrations.IdentityMigrations.UserIdentity.resources
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.csproj.GenerateResource.Cache
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.dll
+C:\Users\stubu_000\Desktop\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.pdb
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\ApplicationInsights.config
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\roslyn\csc.exe
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\roslyn\vbc.exe
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\OptionsWebSite.dll.config
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\OptionsWebSite.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\OptionsWebSite.pdb
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Antlr3.Runtime.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\DiplomaDataModel.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\EntityFramework.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\EntityFramework.SqlServer.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AI.Web.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Security.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Newtonsoft.Json.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Owin.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\System.Web.Helpers.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\System.Web.Mvc.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\System.Web.Optimization.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\System.Web.Razor.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\System.Web.WebPages.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\WebGrease.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\DiplomaDataModel.pdb
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AI.Web.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\System.Web.Helpers.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\System.Web.Mvc.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\System.Web.Optimization.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\System.Web.Razor.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\System.Web.WebPages.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Antlr3.Runtime.pdb
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Newtonsoft.Json.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\EntityFramework.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\EntityFramework.SqlServer.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Security.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\obj\Debug\OptionsWebSite.csprojResolveAssemblyReference.cache
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\obj\Debug\OptionsWebSite.Migrations.DiplomaMigrations.DiplomaIdentity.resources
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\obj\Debug\OptionsWebSite.Migrations.DiplomaMigrations.DiplomaIdentity1.resources
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\obj\Debug\OptionsWebSite.Migrations.IdentityMigrations.UserIdentity.resources
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\obj\Debug\OptionsWebSite.csproj.GenerateResource.Cache
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\obj\Debug\OptionsWebSite.dll
+C:\Users\Jin\Downloads\DiplomaOptions-2- Copy\OptionsWebSite\obj\Debug\OptionsWebSite.pdb
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\ApplicationInsights.config
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\roslyn\csc.exe
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\roslyn\System.Collections.Immutable.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\roslyn\System.Reflection.Metadata.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\roslyn\vbc.exe
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\roslyn\VBCSCompiler.exe
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\roslyn\VBCSCompiler.exe.config
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\OptionsWebSite.dll.config
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\OptionsWebSite.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\OptionsWebSite.pdb
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Antlr3.Runtime.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\DiplomaDataModel.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\EntityFramework.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\EntityFramework.SqlServer.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AI.Agent.Intercept.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AI.DependencyCollector.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AI.Web.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AI.WindowsServer.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.ApplicationInsights.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AspNet.Identity.Core.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Security.Cookies.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Security.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Security.Facebook.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Security.Google.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Security.OAuth.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Security.Twitter.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Web.Infrastructure.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Newtonsoft.Json.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Owin.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\System.Web.Helpers.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\System.Web.Mvc.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\System.Web.Optimization.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\System.Web.Razor.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\System.Web.WebPages.Deployment.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\System.Web.WebPages.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\System.Web.WebPages.Razor.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\WebGrease.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\DiplomaDataModel.pdb
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AI.DependencyCollector.xml
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AI.Web.xml
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AI.WindowsServer.xml
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.ApplicationInsights.xml
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\System.Web.Helpers.xml
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\System.Web.Mvc.xml
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\System.Web.Optimization.xml
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\System.Web.Razor.xml
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\System.Web.WebPages.xml
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\System.Web.WebPages.Deployment.xml
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\System.Web.WebPages.Razor.xml
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Antlr3.Runtime.pdb
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Newtonsoft.Json.xml
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\EntityFramework.xml
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\EntityFramework.SqlServer.xml
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AspNet.Identity.Core.xml
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.xml
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Security.xml
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Security.Facebook.xml
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Security.Cookies.xml
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Security.OAuth.xml
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Security.Google.xml
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Security.Twitter.xml
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\obj\Debug\OptionsWebSite.csprojResolveAssemblyReference.cache
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\obj\Debug\OptionsWebSite.Migrations.DiplomaMigrations.DiplomaIdentity.resources
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\obj\Debug\OptionsWebSite.Migrations.DiplomaMigrations.DiplomaIdentity1.resources
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\obj\Debug\OptionsWebSite.Migrations.IdentityMigrations.UserIdentity.resources
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\obj\Debug\OptionsWebSite.csproj.GenerateResource.Cache
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\obj\Debug\OptionsWebSite.dll
+D:\VS Project\DiplomaOptions-2- Copy\OptionsWebSite\obj\Debug\OptionsWebSite.pdb

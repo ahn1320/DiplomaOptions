@@ -1,0 +1,40 @@
+﻿@model IEnumerable<DiplomaDataModel.Diploma.Choice>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+@section scripts{
+  
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>  
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+        google.charts.load('current', {'packages':['corechart']});
+    </script>
+}
+
+@if (User.IsInRole("Student"))
+{
+    Response.Redirect("~/Choices/Create");
+}
+
+<h2>Index</h2>
+
+
+
+@using (Ajax.BeginForm("Filtering", "Choices", new AjaxOptions { HttpMethod = "GET", UpdateTargetId = "reports" }))
+{
+    @Html.DropDownList("YearTermID", (SelectList)ViewBag.FirstList)
+    <br />
+    @Html.DropDownList("SecondList", ViewBag.SecondList as SelectList)
+    <br />
+
+    <input type="submit" value="Filter" />
+}
+
+<div id= "reports">
+    @Html.Partial("_ReportPartial", Model)
+</div>
+
+
+  

@@ -1,0 +1,39 @@
+﻿
+<script type="text/javasciprt">
+    var firstChoice = @Html.Raw(Json.Encode(ViewBag.FirstCount));
+    google.charts.setOnLoadCallback(drawChart(firstChoice, "First Choice", "piechart"));
+
+    var secondChoice = @Html.Raw(Json.Encode(ViewBag.SecondCount));
+    google.charts.setOnLoadCallback(drawChart(secondChoice, "Second Choice", "piechart2"));
+
+    var thirdChoice = @Html.Raw(Json.Encode(ViewBag.ThirdCount));
+    google.charts.setOnLoadCallback(drawChart(thirdChoice, "Third Choice", "piechart3"));
+
+    var fourthChoice = @Html.Raw(Json.Encode(ViewBag.FourthCount));
+    google.charts.setOnLoadCallback(drawChart(fourthChoice, "Fourth Choice", "piechart4"));
+
+    function drawChart(count, optTitle, divId) {
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Option Title');
+        data.addColumn('number', 'Number of Choices');
+        var opt = @Html.Raw(Json.Encode(ViewBag.Opt));
+
+        for (var i = 0; i < opt.length; i++) {
+            data.addRow([opt[i], count[i]])
+        }
+        var chart = new google.visualization.PieChart(document.getElementById(divId));
+        var options = {
+            title: optTitle
+        };
+
+        chart.draw(data, options);
+    }
+</script>
+
+<div id="piechart" style="width: 500px; height: 500px;"></div>
+
+<div id="piechart2" style="width: 500px; height: 500px;"></div>
+
+<div id="piechart3" style="width: 500px; height: 500px;"></div>
+
+<div id="piechart4" style="width: 500px; height: 500px;"></div>

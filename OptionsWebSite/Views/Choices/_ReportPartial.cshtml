@@ -1,0 +1,57 @@
+﻿@model IEnumerable<DiplomaDataModel.Diploma.Choice>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.StudentId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StudentFirstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StudentLastName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.YearTerms.Term)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SelectionDate)
+        </th>
+        <th>
+            Choices
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentFirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentLastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.YearTerms.Term)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SelectionDate)
+            </td>
+            <td>
+                1: @Html.DisplayFor(modelItem => item.FirstOption.Title) <br />
+                2: @Html.DisplayFor(modelItem => item.SecondOption.Title) <br />
+                3: @Html.DisplayFor(modelItem => item.ThirdOption.Title) <br />
+                4: @Html.DisplayFor(modelItem => item.FourthOption.Title)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ChoiceId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ChoiceId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ChoiceId })
+            </td>
+        </tr>
+    }
+
+</table>
